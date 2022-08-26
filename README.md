@@ -4,6 +4,10 @@
 <img src="https://badgen.net/badge/sukeTV/Status/green?icon=github">
 </a>
 
+<a href="https://github.com/555Z555/music/actions/workflows/BernamaTV.yml">
+<img src="https://badgen.net/badge/BernamaTV/Status/green?icon=github">
+</a>
+
 <br>
 <hr>
 
