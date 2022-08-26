@@ -42,7 +42,7 @@ jobs:
         run: |
           pwd
           chmod +x sukeTV.sh
-          .sukeTV.sh
+          ./sukeTV.sh
         
       - name: git add
         run: |
