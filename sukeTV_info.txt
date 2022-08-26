@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-SukeTV | | | |
+sukeTV | | | |
 https://m.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
