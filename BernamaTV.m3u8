@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/555Z555/music/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1678094112/ei/wFoFZNnRMYnPhgbot6OoCQ/ip/172.176.229.20/id/uGvlYIXPB44.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/rr5---sn-p5qlsn7l.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/S8/mm/44/mn/sn-p5qlsn7l/ms/lva/mv/u/mvi/5/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1678071957/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgQ5lcz8LVdi3FxSH87qUEy0O1_PlJ6t2_92QTiIx6iRgCIQDJ-uRI5f2Giq-pIEtqV7AqJCic42qYKeip94ivfkoKvw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAO8LchyXzCjWyJDdAVkj8a1kHXK7wFN4iaguZVZPgmkCAiBBAmI3EmoqkgHioaJ6fqYzZikavNYXfSgK8PKnpbI-hQ%3D%3D/playlist/index.m3u8
